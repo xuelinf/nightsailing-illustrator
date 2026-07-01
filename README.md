@@ -117,6 +117,14 @@ mv nightsailing-illustrator <CODEX_SKILLS_DIR>/
 
 ---
 
+## 致敬与来源
+
+本技能的创意与配图逻辑，参考并致敬了 [**ian-xiaohei-illustrations**](https://github.com/helloianneo/ian-xiaohei-illustrations) —— 那个用黑色小人「小黑」为文章生成手绘正文漫画的生图技能。是它先示范了「把文章里的判断、流程、结构变成白纸上低科技、略怪诞但一眼能懂的手绘解释图」这套思路。
+
+本项目在此基础上重构，把固定动作主体替换成「夜航猫头鹰」，并按自己的需要调整了风格与工作流。感谢原作者的开源与启发。🦉🖤
+
+---
+
 ## License
 
 个人技能项目，按需取用。
