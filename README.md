@@ -73,6 +73,38 @@ mv nightsailing-illustrator <CODEX_SKILLS_DIR>/
 
 ---
 
+## 效果示例
+
+下面是用本技能为一篇「Git 操作教学」文章生成的一组正文配图 —— 每张只讲一个核心结构，猫头鹰始终是画面里的动作主体，全程纯白背景、手绘线稿、少量中文批注。
+
+**共同仓库 = 一本大家共用的账本**
+
+![共同仓库账本](docs/examples/01-shared-repo-ledger.png)
+
+**动手前先 pull，把远端同步到本地**
+
+![先 pull 再动手](docs/examples/02-pull-before-work.png)
+
+**开分支 = 给自己一个免试改的安全工作台，别直改 main**
+
+![分支是安全工作台](docs/examples/03-branch-safe-workspace.png)
+
+**小步 commit，攒一串存档点，而不是憋成一大坨**
+
+![小步保存](docs/examples/04-commit-small-save-points.png)
+
+**push → PR → merge 回 main 的路径**
+
+![push PR merge](docs/examples/05-push-pr-merge.png)
+
+**AI 当副驾：帮你跑 git、读 diff，人来做关键判断**
+
+![AI 副驾](docs/examples/06-ai-copilot-git.png)
+
+> 这组图完整展示了技能的风格取向：把抽象操作变成白纸上低科技、略怪诞但一眼能懂的手绘结构，而不是流程图或 PPT。
+
+---
+
 ## 如何使用
 
 安装后，在 Codex 中直接用自然语言触发，例如：
