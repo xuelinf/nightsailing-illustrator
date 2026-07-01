@@ -1,0 +1,6 @@
+interface:
+  display_name: "NightSailing Illustrator"
+  short_description: "Create Chinese article comics with the NightSailing owl protagonist"
+  default_prompt: "Use $nightsailing-illustrator 为这篇中文文章生成正文漫画，主角固定为夜航猫头鹰，不加入夜航船、船、灯塔或夜景元素。"
+policy:
+  allow_implicit_invocation: true
